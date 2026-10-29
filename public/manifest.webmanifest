@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "QuickPayBio — Your work, ready to share",
+  "short_name": "QuickPayBio",
+  "description": "Create a professional service page and accept direct UPI payments.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f5ef",
+  "theme_color": "#f6f5ef",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
